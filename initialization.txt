@@ -1,0 +1,8 @@
+if you did anything of project paste in this folder
+and
+command
+
+git status
+git add .
+git commit -m "push initial"
+git push origin master
